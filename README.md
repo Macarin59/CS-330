@@ -1,4 +1,7 @@
 # CS-330
+![2024-08-13 03_00_08-OpenGLMilestone (Running) - Microsoft Visual Studio](https://github.com/user-attachments/assets/f5dea4fa-24ea-4a02-97be-8b6937809826)
+
+![2024-08-13 03_00_28-OpenGLMilestone (Running) - Microsoft Visual Studio](https://github.com/user-attachments/assets/129371eb-f3ad-41c9-9fc7-96860850a3c3)
 
 **1. How do I approach designing software?**
 
